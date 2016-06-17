@@ -1,0 +1,23 @@
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes.dex : \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\helloworld\BuildConfig.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\helloworld\HelloWorld.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\helloworld\R$attr.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\helloworld\R$drawable.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\TCSiON_eDUAPI\BuildConfig.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\TCSiON_eDUAPI\R$attr.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\TCSiON_eDUAPI\R$drawable.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\TCSiON_eDUAPI\R$string.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\TCSiON_eDUAPI\R$xml.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\com\phonegap\TCSiON_eDUAPI\R.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\apache\cordova\batterystatus\BatteryListener$1.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\apache\cordova\batterystatus\BatteryListener.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\apache\cordova\deviceorientation\CompassListener$1.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\apache\cordova\deviceorientation\CompassListener.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager$1.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\classes\org\jshybugger\cordova\JsHybuggerPlugin.class \
+D:\Ganesh\Projects\phonegap\TCSiON_API\platforms\android\ant-build\dexedLibs\classes-ae8e1a64e9f1cfb82c540daa762a9fb8.jar \
